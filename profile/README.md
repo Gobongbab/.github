@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/0654bccb-e01b-437a-a445-92da7dd44521" width="200px">
+<img src="https://github.com/user-attachments/assets/abec3805-cd45-4d3d-99ae-638e38b00fcb" width="200px">
 
 ## TeamPu : 팀프실 야간잔류 신청 시스템
 
