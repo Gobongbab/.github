@@ -47,7 +47,7 @@ TeamPu는 학우들의 편의성과 효율성을 극대화하기 위해 설계�
 | 19 정재우         | Server Development              |
 | 20 이유성         | Server Development              |
 | 20 김진형         | Server Development              |
-| 20 이정근         | Server Development              |
+| 20 이정근         | DevOps             |
 | 21 김아현         | Server Development              |
 | 23 한유진         | Front-End Development              |
 
