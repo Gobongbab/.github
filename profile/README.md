@@ -50,10 +50,10 @@
 | **CI / CD**          | Github Actions, K3S, JACOCO |
 | **Database**          | Flyway        |
 
-## CI/CD Pipeline
+## 👷 CI/CD Pipeline
 ![image](https://github.com/user-attachments/assets/b3b3f02e-d9f5-478a-afe5-0e01d1988e8b)
 
-## Server Pipeline
+## 🔀 Server Pipeline
 ![image](https://github.com/user-attachments/assets/05567c33-f3a2-4a7c-9e68-82e5e5023dad)
 
 
