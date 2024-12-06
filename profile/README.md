@@ -37,8 +37,8 @@
 | **Category**      | **Details**                          |
 |--------------------|--------------------------------------|
 | **Language**       | Java                         |
-| **Framework / Tech Stack**| Spring, JPA, MySQL,Redis           |
-| **Tools**          | Git, InteliJ, Figma, Discord               |
+| **Framework / Tech Stack**| Spring, JPA, MySQL,Redis, nGrinder           |
+| **Tools**          | Git, InteliJ, Figma               |
 
 ### Infrastructure
 
