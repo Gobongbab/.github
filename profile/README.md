@@ -34,7 +34,7 @@
 
 | 정재우 | 한유진 | 김진형 | 김아현 |
 |:---:|:---:|:---:|:---:|
-| <a href="https://github.com/Muokok"> <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Chill_guy_original_artwork.jpg" width=200px alt="_"/> </a> | <a href="https://github.com/Muokok"> <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Chill_guy_original_artwork.jpg" width=200px alt="_"/> </a> | <a href="https://github.com/Muokok"> <img src="https://avatars.githubusercontent.com/u/131960164?v=4" width=200px alt="_"/> </a> | <a href="https://github.com/Muokok"> <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Chill_guy_original_artwork.jpg" width=200px alt="_"/> </a> |
+| <a href="https://github.com/Muokok"> <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Chill_guy_original_artwork.jpg" width=200px alt="_"/> </a> | <a href="https://github.com/cho4u4o"> <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Chill_guy_original_artwork.jpg" width=200px alt="_"/> </a> | <a href="https://github.com/Muokok"> <img src="https://avatars.githubusercontent.com/u/131960164?v=4" width=200px alt="_"/> </a> | <a href="https://github.com/Muokok"> <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Chill_guy_original_artwork.jpg" width=200px alt="_"/> </a> |
 | **Backend Lead & Infrastructure** | **Frontend Lead** | **Backend & Infrastructure** | **Backend & Infrastructure** |
 
 
