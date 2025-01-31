@@ -1,4 +1,9 @@
-## 오픈소스SW 실습 팀 프로젝트로 출발한 사람들이에요!
+## 🤔 고봉밥은 어떤 팀인가요?
+- 저희는 경기대학교 `오픈소스SW 실습` 수업의 프로젝트를 통해 만났어요.
+- `팀원들의 넘치는 열정을 한 곳에 모두 담기가 힘들다` 라는 의미에서 **고봉밥**이라고 팀 이름을 지었어요.
+- 주로 교내의 불편한 사항이나 시스템을 개선하기 위해 웹 서비스를 제작하고 있어요.
+
+## 
 
 ## 🖥️  프로젝트 List
 1. TeamPu
@@ -32,9 +37,10 @@
 ## 👥 팀원
 <div align=center>
 
+
 | 정재우 | 한유진 | 김진형 | 김아현 |
 |:---:|:---:|:---:|:---:|
-| <a href="https://github.com/Muokok"> <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Chill_guy_original_artwork.jpg" width=200px alt="_"/> </a> | <a href="https://github.com/cho4u4o"> <img src="https://avatars.githubusercontent.com/u/128016678?v=4" width=200px alt="_"/> </a> | <a href="https://github.com/Muokok"> <img src="https://avatars.githubusercontent.com/u/131960164?v=4" width=200px alt="_"/> </a> | <a href="https://github.com/ahyeonkong"> <img src="https://avatars.githubusercontent.com/ahyeonkong" width=200px alt="_"/> </a> |
+| <a href="https://github.com/holyPigeon"> <img src="https://github.com/user-attachments/assets/0168000e-72db-40d0-b84f-ada3885883bb" width=200px height=200px alt="_"/> </a> | <a href="https://github.com/cho4u4o"> <img src="https://avatars.githubusercontent.com/u/128016678?v=4" width=200px alt="_"/> </a> | <a href="https://github.com/Muokok"> <img src="https://avatars.githubusercontent.com/u/131960164?v=4" width=200px alt="_"/> </a> | <a href="https://github.com/ahyeonkong"> <img src="https://avatars.githubusercontent.com/ahyeonkong" width=200px alt="_"/> </a> |
 | **Backend Lead & Infrastructure** | **Frontend Lead** | **Backend & Infrastructure** | **Backend & Infrastructure** |
 
 
