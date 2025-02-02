@@ -40,7 +40,7 @@
 
 | 정재우 | 한유진 | 김진형 | 김아현 |
 |:---:|:---:|:---:|:---:|
-| <a href="https://github.com/holyPigeon"> <img src="https://github.com/user-attachments/assets/0168000e-72db-40d0-b84f-ada3885883bb" width=200px height=200px alt="_"/> </a> | <a href="https://github.com/cho4u4o"> <img src="https://avatars.githubusercontent.com/u/128016678?v=4" width=200px alt="_"/> </a> | <a href="https://github.com/Muokok"> <img src="https://avatars.githubusercontent.com/u/131960164?v=4" width=200px alt="_"/> </a> | <a href="https://github.com/ahyeonkong"> <img src="https://avatars.githubusercontent.com/ahyeonkong" width=200px alt="_"/> </a> |
+| <a href="https://github.com/holyPigeon"> <img src="https://github.com/user-attachments/assets/0168000e-72db-40d0-b84f-ada3885883bb" width=200px height=200px alt="_"/> </a> | <a href="https://github.com/cho4u4o"> <img src="https://github.com/user-attachments/assets/a1b40601-10e1-4003-b95a-fe9a30af5864" width=200px alt="_"/> </a> | <a href="https://github.com/Muokok"> <img src="https://avatars.githubusercontent.com/u/131960164?v=4" width=200px alt="_"/> </a> | <a href="https://github.com/ahyeonkong"> <img src="https://avatars.githubusercontent.com/ahyeonkong" width=200px alt="_"/> </a> |
 | **Backend Lead & Infrastructure** | **Frontend Lead** | **Backend & Infrastructure** | **Backend & Infrastructure** |
 
 
