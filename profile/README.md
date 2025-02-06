@@ -16,6 +16,7 @@
 컴퓨터공학전공 팀프로젝트실 야간잔류 신청이 번거롭지 않으셨나요?<br>
 이제는 TeamPu로 편하게 예약하고 사용하세요! 🎉
 
+[프로젝트 둘러보기!](https://github.com/Gobongbab/TeamPu-Server/blob/develop/README.md)
 
 ## 👥 팀원
 <div align=center>
