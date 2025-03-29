@@ -34,7 +34,7 @@
 대학생활의 꽃, 축제를 즐기고 싶으신가요?<br>
 이제는 FestaMate로 편하게 미팅을 잡아보세요! 🎉
 
-
+[프로젝트 둘러보기!](https://github.com/Gobongbab/Festamate-Server/blob/develop/README.md)
 ## 👥 팀원
 <div align=center>
 
