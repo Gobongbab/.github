@@ -1,12 +1,7 @@
 <img width="906" alt="image" src="https://github.com/user-attachments/assets/7086332e-7779-4f36-880b-f21f2441ae28" />
 
 ## team Gobongbab!
-[![정재우](https://img.shields.io/badge/BE-holyPigeon%20정재우-orange)](https://github.com/holyPigeon)
-[![김아현](https://img.shields.io/badge/BE-ahyeonkong%20김아현-pink)](https://github.com/ahyeonkong)
-[![김진형](https://img.shields.io/badge/BE-Muokok%20김진형-purple)](https://github.com/Muokok)
-[![김진형](https://img.shields.io/badge/BE-Rm5wjd%20이정근-bronze)](https://github.com/Rm5wjd)
-[![김진형](https://img.shields.io/badge/BE-YuSung011017%20이유성-silver)](https://github.com/YuSung011017)
-[![한유진](https://img.shields.io/badge/FE-yummjin%20한유진-gold)](https://github.com/yummjin)
+
 
 
 
@@ -14,6 +9,12 @@
 ## these are what we made!
 
 ### <code>TeamPu : 팀프실 야간잔류 신청 시스템</code>
+[![정재우](https://img.shields.io/badge/BE-holyPigeon%20정재우-orange)](https://github.com/holyPigeon)
+[![김아현](https://img.shields.io/badge/BE-ahyeonkong%20김아현-pink)](https://github.com/ahyeonkong)
+[![김진형](https://img.shields.io/badge/BE-Muokok%20김진형-purple)](https://github.com/Muokok)
+[![김진형](https://img.shields.io/badge/Infra-Rm5wjd%20이정근-bronze)](https://github.com/Rm5wjd)
+[![김진형](https://img.shields.io/badge/BE-YuSung011017%20이유성-silver)](https://github.com/YuSung011017)
+[![한유진](https://img.shields.io/badge/FE-yummjin%20한유진-gold)](https://github.com/yummjin)
 
 컴퓨터공학전공 팀프로젝트실 야간잔류 신청이 번거롭지 않으셨나요?<br>
 이제는 TeamPu로 편하게 예약하고 사용하세요! 🎉
@@ -29,6 +30,10 @@
 
 대학생활의 꽃, 축제를 즐기고 싶으신가요?<br>
 이제는 FestaMate로 편하게 미팅을 잡아보세요! 🎉
+[![정재우](https://img.shields.io/badge/BE-holyPigeon%20정재우-orange)](https://github.com/holyPigeon)
+[![김아현](https://img.shields.io/badge/BE-ahyeonkong%20김아현-pink)](https://github.com/ahyeonkong)
+[![김진형](https://img.shields.io/badge/Infra-Muokok%20김진형-purple)](https://github.com/Muokok)
+[![한유진](https://img.shields.io/badge/FE-yummjin%20한유진-gold)](https://github.com/yummjin)
 
 [프로젝트 둘러보기](https://github.com/Gobongbab/Festamate-Server/blob/develop/README.md)
 
