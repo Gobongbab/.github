@@ -14,7 +14,8 @@
 컴퓨터공학전공 팀프로젝트실 야간잔류 신청이 번거롭지 않으셨나요?<br>
 이제는 TeamPu로 편하게 예약하고 사용하세요! 🎉
 
-[프로젝트 둘러보기](https://github.com/Gobongbab/TeamPu-Server/blob/develop/README.md) 
+[프로젝트 둘러보기](https://github.com/Gobongbab/TeamPu-Server/blob/develop/README.md)
+
 [프로젝트 바로가기](https://www.team-pu.site/)
 
 ![Status](https://img.shields.io/badge/server-done-blue)
@@ -26,6 +27,7 @@
 이제는 FestaMate로 편하게 미팅을 잡아보세요! 🎉
 
 [프로젝트 둘러보기](https://github.com/Gobongbab/Festamate-Server/blob/develop/README.md)
+
 [프로젝트 바로가기](https://festamate-web.vercel.app/)
 
 ![Status](https://img.shields.io/badge/server-on%20progress-green)
