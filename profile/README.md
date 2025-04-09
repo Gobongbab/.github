@@ -1,48 +1,38 @@
-## 🤔 고봉밥은 어떤 팀인가요?
-- 저희는 경기대학교 `오픈소스SW 실습` 수업의 프로젝트를 통해 만났어요.
-- `팀원들의 넘치는 열정을 한 곳에 모두 담기가 힘들다` 라는 의미에서 **고봉밥**이라고 팀 이름을 지었어요.
-- 주로 교내의 불편한 사항이나 시스템을 개선하기 위해 웹 서비스를 제작하고 있어요.
+<img width="906" alt="image" src="https://github.com/user-attachments/assets/7086332e-7779-4f36-880b-f21f2441ae28" />
 
-## 
+## team Gobongbab!
+[![정재우](https://img.shields.io/badge/BE-holyPigeon%20정재우-orange)](https://github.com/holyPigeon)
+[![김아현](https://img.shields.io/badge/BE-ahyeonkong%20김아현-pink)](https://github.com/ahyeonkong)
+[![김진형](https://img.shields.io/badge/BE-Muokok%20김진형-purple)](https://github.com/Muokok)
+[![한유진](https://img.shields.io/badge/FE-yummjin%20한유진-yellow)](https://github.com/yummjin)
 
-## 🖥️  프로젝트 List
-1. TeamPu
-2. FestaMate
 
-</br>
-<img src="https://github.com/user-attachments/assets/abec3805-cd45-4d3d-99ae-638e38b00fcb" width="200px">
+## these are what we made!
 
-## TeamPu : 팀프실 야간잔류 신청 시스템
+### <code>TeamPu : 팀프실 야간잔류 신청 시스템</code>
+
 컴퓨터공학전공 팀프로젝트실 야간잔류 신청이 번거롭지 않으셨나요?<br>
 이제는 TeamPu로 편하게 예약하고 사용하세요! 🎉
 
-[프로젝트 둘러보기!](https://github.com/Gobongbab/TeamPu-Server/blob/develop/README.md)
+[프로젝트 둘러보기](https://github.com/Gobongbab/TeamPu-Server/blob/develop/README.md) 
+[프로젝트 바로가기](https://www.team-pu.site/)
 
-## 👥 팀원
-<div align=center>
+![Status](https://img.shields.io/badge/server-done-blue)
+![Status](https://img.shields.io/badge/client-done-blue)
 
-| 정재우 | 이유성 | 김진형 | 김아현 | 이정근 | 한유진 |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| <a href="https://github.com/Muokok"> <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Chill_guy_original_artwork.jpg" width=200px alt="_"/> </a> | <a href="https://github.com/Muokok"> <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Chill_guy_original_artwork.jpg" width=200px alt="_"/> </a> | <a href="https://github.com/Muokok"> <img src="https://avatars.githubusercontent.com/u/131960164?v=4" width=200px alt="_"/> </a> | <a href="https://github.com/ahyeonkong"> <img src="https://avatars.githubusercontent.com/ahyeonkong" width=200px alt="_"/> </a> | <a href="https://github.com/Muokok"> <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Chill_guy_original_artwork.jpg" width=200px alt="_"/> </a> | <a href="https://github.com/yummjin"> <img src="https://avatars.githubusercontent.com/yummjin" width=200px alt="_"/> </a> |
-| **Backend Lead** | **Backend & Infrastructure** | **Team Lead & Backend** | **Backend & Infrastructure** | **Infrastructure Lead** | **Frontend Lead** |
-</div>
+### <code>Festamate : 축제용 미팅 웹앱</code>
 
-</br>
-<img src="https://github.com/user-attachments/assets/8d763b0b-9453-40a5-85b8-3abf332d78ed" width="200px">
-
-## FestaMate : 축제용 미팅 웹앱
 대학생활의 꽃, 축제를 즐기고 싶으신가요?<br>
 이제는 FestaMate로 편하게 미팅을 잡아보세요! 🎉
 
-[프로젝트 둘러보기!](https://github.com/Gobongbab/Festamate-Server/blob/develop/README.md)
-## 👥 팀원
-<div align=center>
+[프로젝트 둘러보기](https://github.com/Gobongbab/Festamate-Server/blob/develop/README.md)
+[프로젝트 바로가기](https://festamate-web.vercel.app/)
+
+![Status](https://img.shields.io/badge/server-on%20progress-green)
+![Status](https://img.shields.io/badge/client-on%20progress-green)
 
 
-| 정재우 | 한유진 | 김진형 | 김아현 |
-|:---:|:---:|:---:|:---:|
-| <a href="https://github.com/holyPigeon"> <img src="https://github.com/user-attachments/assets/0168000e-72db-40d0-b84f-ada3885883bb" width=200px height=200px alt="_"/> </a> | <a href="https://github.com/yummjin"> <img src="https://github.com/user-attachments/assets/a1b40601-10e1-4003-b95a-fe9a30af5864" width=200px alt="_"/> </a> | <a href="https://github.com/Muokok"> <img src="https://avatars.githubusercontent.com/u/131960164?v=4" width=200px alt="_"/> </a> | <a href="https://github.com/ahyeonkong"> <img src="https://avatars.githubusercontent.com/ahyeonkong" width=200px alt="_"/> </a> |
-| **Backend Lead & Infrastructure** | **Frontend Lead** | **Backend & Infrastructure** | **Backend & Infrastructure** |
+
 
 
 
