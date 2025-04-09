@@ -27,13 +27,14 @@
 ![Status](https://img.shields.io/badge/client-done-blue)
 
 ### <code>Festamate : 축제용 미팅 웹앱</code>
-
-대학생활의 꽃, 축제를 즐기고 싶으신가요?<br>
-이제는 FestaMate로 편하게 미팅을 잡아보세요! 🎉
 [![정재우](https://img.shields.io/badge/BE-holyPigeon%20정재우-orange)](https://github.com/holyPigeon)
 [![김아현](https://img.shields.io/badge/BE-ahyeonkong%20김아현-pink)](https://github.com/ahyeonkong)
 [![김진형](https://img.shields.io/badge/Infra-Muokok%20김진형-purple)](https://github.com/Muokok)
 [![한유진](https://img.shields.io/badge/FE-yummjin%20한유진-gold)](https://github.com/yummjin)
+
+대학생활의 꽃, 축제를 즐기고 싶으신가요?<br>
+이제는 FestaMate로 편하게 미팅을 잡아보세요! 🎉
+
 
 [프로젝트 둘러보기](https://github.com/Gobongbab/Festamate-Server/blob/develop/README.md)
 
