@@ -4,7 +4,11 @@
 [![정재우](https://img.shields.io/badge/BE-holyPigeon%20정재우-orange)](https://github.com/holyPigeon)
 [![김아현](https://img.shields.io/badge/BE-ahyeonkong%20김아현-pink)](https://github.com/ahyeonkong)
 [![김진형](https://img.shields.io/badge/BE-Muokok%20김진형-purple)](https://github.com/Muokok)
-[![한유진](https://img.shields.io/badge/FE-yummjin%20한유진-yellow)](https://github.com/yummjin)
+[![김진형](https://img.shields.io/badge/BE-Rm5wjd%20이정근-bronze)](https://github.com/Rm5wjd)
+[![김진형](https://img.shields.io/badge/BE-YuSung011017%20이유성-silver)](https://github.com/YuSung011017)
+[![한유진](https://img.shields.io/badge/FE-yummjin%20한유진-gold)](https://github.com/yummjin)
+
+
 
 
 ## these are what we made!
